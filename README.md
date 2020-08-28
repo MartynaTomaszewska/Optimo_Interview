@@ -1,5 +1,17 @@
+# How to start
+`npm install` - to install dependencies
+
+`npm run start` - to start application
+
+Now application is available in browser at http://127.0.0.1:8080/
+
+# How to build
+`npm run build` - to build application
+
 # Config description
 Config file called config.json is inside root directory.
+
+**Note: After changing config file you must rebuild application!!!**
 
 Available options in config file:
 * windowSize: size of the game window (width and height in pixels)
